@@ -1,0 +1,232 @@
+Uri: https://code.jquery.com/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\valhal.la\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\valhal.la\ui\1.12.1\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_444444_256x240.png
+File Name: C:\Downloaded Web Sites\valhal.la\ui\1.12.1\themes\base\images\ui-icons_444444_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_555555_256x240.png
+File Name: C:\Downloaded Web Sites\valhal.la\ui\1.12.1\themes\base\images\ui-icons_555555_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_777620_256x240.png
+File Name: C:\Downloaded Web Sites\valhal.la\ui\1.12.1\themes\base\images\ui-icons_777620_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_777777_256x240.png
+File Name: C:\Downloaded Web Sites\valhal.la\ui\1.12.1\themes\base\images\ui-icons_777777_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_cc0000_256x240.png
+File Name: C:\Downloaded Web Sites\valhal.la\ui\1.12.1\themes\base\images\ui-icons_cc0000_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/images/ui-icons_ffffff_256x240.png
+File Name: C:\Downloaded Web Sites\valhal.la\ui\1.12.1\themes\base\images\ui-icons_ffffff_256x240.png
+Content Type: image/png
+
+Uri: https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css
+File Name: C:\Downloaded Web Sites\valhal.la\ui\1.12.1\themes\base\jquery-ui.css
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/css/vcr-osd-mono
+File Name: C:\Downloaded Web Sites\valhal.la\css\vcr-osd-mono
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/14798/VCR_OSD_MONO_1.001[1].woff
+File Name: C:\Downloaded Web Sites\valhal.la\s\14798\VCR_OSD_MONO_1.001[1].woff
+Content Type: font/woff
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/css/all.css
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\css\all.css
+Content Type: text/css
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-duotone-900.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-light-300.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-thin-100.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://site-assets.fontawesome.com/releases/v6.2.0/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\valhal.la\releases\v6.2.0\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://unpkg.com/98.css@0.1.20/dist/98.css
+File Name: C:\Downloaded Web Sites\valhal.la\98.css@0.1.20\dist\98.css
+Content Type: text/css
+
+Uri: https://unpkg.com/98.css@0.1.20/dist/ms_sans_serif.woff
+File Name: C:\Downloaded Web Sites\valhal.la\98.css@0.1.20\dist\ms_sans_serif.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/98.css@0.1.20/dist/ms_sans_serif.woff2
+File Name: C:\Downloaded Web Sites\valhal.la\98.css@0.1.20\dist\ms_sans_serif.woff2
+Content Type: font/woff2
+
+Uri: https://unpkg.com/98.css@0.1.20/dist/ms_sans_serif_bold.woff
+File Name: C:\Downloaded Web Sites\valhal.la\98.css@0.1.20\dist\ms_sans_serif_bold.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/98.css@0.1.20/dist/ms_sans_serif_bold.woff2
+File Name: C:\Downloaded Web Sites\valhal.la\98.css@0.1.20\dist\ms_sans_serif_bold.woff2
+Content Type: font/woff2
+
+Uri: https://valhal.la/
+File Name: C:\Downloaded Web Sites\valhal.la\index.htm
+Content Type: text/html
+
+Uri: https://valhal.la/audio.js
+File Name: C:\Downloaded Web Sites\valhal.la\audio.js
+Content Type: application/x-javascript
+
+Uri: https://valhal.la/crt.css
+File Name: C:\Downloaded Web Sites\valhal.la\crt.css
+Content Type: text/css
+
+Uri: https://valhal.la/desktop
+File Name: C:\Downloaded Web Sites\valhal.la\desktop.html
+Content Type: text/html
+
+Uri: https://valhal.la/desktop.css
+File Name: C:\Downloaded Web Sites\valhal.la\desktop.css
+Content Type: text/css
+
+Uri: https://valhal.la/images/cock.gif
+File Name: C:\Downloaded Web Sites\valhal.la\images\cock.gif
+Content Type: image/gif
+
+Uri: https://valhal.la/images/girl.jpg
+File Name: C:\Downloaded Web Sites\valhal.la\images\girl.jpg
+Content Type: image/jpeg
+
+Uri: https://valhal.la/images/mobile-girl.png
+File Name: C:\Downloaded Web Sites\valhal.la\images\mobile-girl.png
+Content Type: image/png
+
+Uri: https://valhal.la/images/sound.png
+File Name: C:\Downloaded Web Sites\valhal.la\images\sound.png
+Content Type: image/png
+
+Uri: https://valhal.la/index.css
+File Name: C:\Downloaded Web Sites\valhal.la\index.css
+Content Type: text/css
+
+Uri: https://valhal.la/index.js
+File Name: C:\Downloaded Web Sites\valhal.la\index.js
+Content Type: application/javascript
+
+Uri: https://valhal.la/loading.css
+File Name: C:\Downloaded Web Sites\valhal.la\loading.css
+Content Type: text/css
+
+Uri: https://valhal.la/Members/convict.png
+File Name: C:\Downloaded Web Sites\valhal.la\Members\convict.png
+Content Type: image/png
+
+Uri: https://valhal.la/Members/demeter.png
+File Name: C:\Downloaded Web Sites\valhal.la\Members\demeter.png
+Content Type: image/png
+
+Uri: https://valhal.la/Members/intelbroker.png
+File Name: C:\Downloaded Web Sites\valhal.la\Members\intelbroker.png
+Content Type: image/png
+
+Uri: https://valhal.la/Members/nov.png
+File Name: C:\Downloaded Web Sites\valhal.la\Members\nov.png
+Content Type: image/png
+
+Uri: https://valhal.la/Members/reiko.png
+File Name: C:\Downloaded Web Sites\valhal.la\Members\reiko.png
+Content Type: image/png
+
+Uri: https://valhal.la/Members/stitch.png
+File Name: C:\Downloaded Web Sites\valhal.la\Members\stitch.png
+Content Type: image/png
+
+Uri: https://valhal.la/Members/vayne.png
+File Name: C:\Downloaded Web Sites\valhal.la\Members\vayne.png
+Content Type: image/png
+
+Uri: https://valhal.la/pixel.apng
+File Name: C:\Downloaded Web Sites\valhal.la\pixel.apng
+Content Type: image/apng
+
+Uri: https://valhal.la/songs/audio.mp3
+File Name: C:\Downloaded Web Sites\valhal.la\songs\audio.mp3
+Content Type: audio/mpeg
+
+Uri: https://valhal.la/songs/audio2.mp3
+File Name: C:\Downloaded Web Sites\valhal.la\songs\audio2.mp3
+Content Type: audio/mpeg
+
+Uri: https://valhal.la/songs/audio3.mp3
+File Name: C:\Downloaded Web Sites\valhal.la\songs\audio3.mp3
+Content Type: audio/mpeg
+
+Uri: https://valhal.la/songs/audio4.mp3
+File Name: C:\Downloaded Web Sites\valhal.la\songs\audio4.mp3
+Content Type: audio/mpeg
+
+Uri: https://valhal.la/WOFF/FreeSerif-YO4a.woff
+File Name: C:\Downloaded Web Sites\valhal.la\WOFF\FreeSerif-YO4a.woff
+Content Type: font/woff
+
+Uri: https://valhal.la/WOFF/jackeyfont.woff
+File Name: C:\Downloaded Web Sites\valhal.la\WOFF\jackeyfont.woff
+Content Type: font/woff
+
+Uri: https://win98icons.alexmeub.com/icons/png/windows-0.png
+File Name: C:\Downloaded Web Sites\valhal.la\icons\png\windows-0.png
+Content Type: image/png
+
